@@ -1,0 +1,7 @@
+{
+  "version": "freshsearch-judge-config-v1",
+  "endpoint": "https://judge.example.invalid/v1/chat/completions",
+  "model": "REPLACE_WITH_EXPLICIT_PINNED_MODEL",
+  "apiKeyEnv": "FRESHSEARCH_JUDGE_API_KEY",
+  "timeoutMs": 60000
+}

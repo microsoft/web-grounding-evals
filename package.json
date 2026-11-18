@@ -1,0 +1,13 @@
+{
+  "name": "grounding-evals",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "description": "Tools for running and scoring the FreshSearch benchmark",
+  "scripts": {
+    "test": "node --test tools/apply-license-headers.test.cjs tools/dependency-licenses.test.cjs && node tools/apply-license-headers.cjs --check && node tools/dependency-licenses.cjs --check && npm --prefix benchmark test"
+  },
+  "engines": {
+    "node": "^22.0.0 || ^24.0.0 || ^26.0.0"
+  }
+}

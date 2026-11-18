@@ -1,0 +1,8 @@
+{
+  "version": "freshsearch-judge-config-v1",
+  "transport": "azure-openai-responses",
+  "endpoint": "https://REPLACE_WITH_RESOURCE_NAME.services.ai.azure.com/openai/v1/responses",
+  "model": "REPLACE_WITH_EXPLICIT_DEPLOYMENT_NAME",
+  "apiKeyEnv": "AZURE_OPENAI_KEY",
+  "timeoutMs": 60000
+}

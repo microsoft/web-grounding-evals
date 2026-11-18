@@ -1,0 +1,4059 @@
+{
+  "version": "freshsearch-fcd-catalog-v1",
+  "provenance": {
+    "selection": "96 selected feeds for Fresh Content Discovery.",
+    "order": "Retained source order; no resampling, ranking or source replacement.",
+    "qualification": "Membership does not fabricate current source/robots availability or provider outcomes."
+  },
+  "exclusions": {
+    "version": "freshsearch-fcd-catalog-v1",
+    "reason": "Article links were paywalled when the set was assembled.",
+    "scope": "Excluded from this dataset; retained source order is unchanged.",
+    "excludedFeedUrls": [
+      "https://fortune.com/feed/",
+      "https://www.businessreport.com/feed/",
+      "https://www.medicaldevice-network.com/feed/",
+      "https://www.si.com/feed"
+    ]
+  },
+  "membership": {
+    "catalogVersion": "freshsearch-fcd-catalog-v1",
+    "sourceIds": [
+      "feed-18c049732d816faaef7f1c22",
+      "feed-508ee13e341bdb1de7270497",
+      "feed-242377d1e05feb42181eb662",
+      "feed-bc219d4e76fb38d36bdfb541",
+      "feed-d538d63a1b9b9d2ad6716b32",
+      "feed-567da99918653b7bb4e2694b",
+      "feed-2d0e372738986fb825de0c6c",
+      "feed-d042c91a5c5fa8c074581709",
+      "feed-15726ece12307d036d6e7b3f",
+      "feed-f18274e09366911a76cee483",
+      "feed-c596d8b596b3e6c16a0e8519",
+      "feed-81cc8d838ca275e2cd8253da",
+      "feed-9430d545655b39814f1dbddc",
+      "feed-5a8afe446f0ed2ee66f3ba65",
+      "feed-b68c6629dc2df69c41980d7f",
+      "feed-911473d0cfe9b8d446f99d4b",
+      "feed-b8dfdebe6b4df1855c2b5e82",
+      "feed-45ac990403e461a5feaf8243",
+      "feed-1f44c63a099a8c51dbbd257d",
+      "feed-972663d68dd14aff9cdc4f2d",
+      "feed-5a528563e63e9a9fa44851b6",
+      "feed-32d91f858005943585eb8bd9",
+      "feed-05a1e2ef784a3a0571a043fd",
+      "feed-72a1f79c321e3baa0d606ff3",
+      "feed-582cf277c2f2941efa17cbb4",
+      "feed-86b8963b2a82ce2c45126a0c",
+      "feed-0f3fb39be7a33e1a95c7c9eb",
+      "feed-dd0d7e7448d391ea8c3155c9",
+      "feed-70910589a3104b1d17f22922",
+      "feed-e66f5d335e6c7f2c146ddc13",
+      "feed-8c566c8b87d9bfaa3306640d",
+      "feed-5da536566d18a9ecb700fd83",
+      "feed-67dd41043deca605e8c0a009",
+      "FS-PF261018-107",
+      "feed-3ddefad5b44e9c4a054efdf3",
+      "feed-5855b9cfc909fcb84fa37917",
+      "feed-4d778f560942cb88a1ff1918",
+      "feed-91f7377833861e829e7bf3cb",
+      "FS-PF261018-075",
+      "feed-7e72f0b4ec8682f670b0cc1a",
+      "FS-PF261018-048",
+      "feed-a46bdc9fb8c31fce7212ece3",
+      "feed-1959a14f019e21a180c8a842",
+      "feed-0c1f13ac2ba7b6ded355de74",
+      "feed-9c97b246dcac954759cb1c29",
+      "feed-09977b87d6a6ec9a35c95384",
+      "feed-4983d115663f4ba2107a6224",
+      "feed-87e2efae0a732cfe22fb5091",
+      "FS-PF261018-174",
+      "feed-f17c481776c7e8812f64d697",
+      "FS-PF261018-132",
+      "feed-aa6c15ef26cb6c25015267af",
+      "FS-PF261018-026",
+      "FS-PF261018-169",
+      "FS-PF261018-153",
+      "FS-PF261018-168",
+      "feed-8397a097afd537de1d5893b1",
+      "feed-a3e3cb5524edd8dd365f827e",
+      "feed-a30926d328d267970e3febb5",
+      "feed-20762d71c8c3f3b6f44ec6ed",
+      "feed-c7e445866950adcd61f446e1",
+      "feed-fa7dba7404009971ab55c106",
+      "feed-5ab368593f852bfeecfecdab",
+      "feed-21fafcb186b2a67b8bb02ebe",
+      "feed-33006d12f3ea2723dac624c5",
+      "feed-c7d4ea914fa235e42116a1e9",
+      "feed-f5ae99cdd499da984b85302d",
+      "feed-65d68fd243f5bca5ef2c360c",
+      "feed-b30b7b9e71008a692d8f24b0",
+      "feed-eb9e2ab8da6f8f6584c94a58",
+      "feed-fd6be51ac92655377cad42c9",
+      "feed-db200666f3c453bdc1025bd7",
+      "feed-82da87ee861d480e8323e4c2",
+      "feed-fc4744035e3955d8506ea8a1",
+      "feed-d17adc5985dde695afde8bb3",
+      "feed-2f3b69ac70035fb07dfca9bc",
+      "feed-b5e99905f8a612b24531dd0c",
+      "feed-347eb71b4f40dbb2ef56623b",
+      "feed-5a5501a19f59ef430bf4cfcb",
+      "feed-2219b045ae7dfa1fcc2d4b87",
+      "feed-f84187f7c52ef9b346198263",
+      "feed-18382aea95266bd80f84d1e7",
+      "feed-e8ed5dbf0897f82eb0ea49a7",
+      "feed-bf04d96d579aed6d97971979",
+      "feed-2ccba97d94b1107757b71d74",
+      "feed-40c2bd2340df24aa0c9de5dd",
+      "feed-119694678abfad7bc956d391",
+      "feed-26bb800c0ddb436c1079ea4b",
+      "feed-2d89e672da68a2ff4d811313",
+      "feed-1fd457774e83e98d764eedad",
+      "feed-8cc4aa5a16dc3d0fcca99053",
+      "feed-0df6c05672faf74696a89a4b",
+      "feed-502822d9f3cfd4d064dcc8e3",
+      "feed-3a34d533cce962ef92d331ed",
+      "feed-e081bf72d79ee8a8a5c00586",
+      "feed-24b7e243831d173ccb9235ab"
+    ],
+    "total": 96
+  },
+  "sources": [
+    {
+      "sourceId": "feed-18c049732d816faaef7f1c22",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "arts-culture",
+        "topics": [
+          "arts-culture"
+        ],
+        "publisherFamily": "design-milk.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-18c049732d816faaef7f1c22",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "design-milk.com",
+        "publisherName": "design-milk.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected arts-culture feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://design-milk.com/category/interior-design/feed/",
+        "reference": {
+          "feedUrl": "https://design-milk.com/category/interior-design/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "design-milk.com"
+          ],
+          "articleHosts": [
+            "design-milk.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-508ee13e341bdb1de7270497",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "arts-culture",
+        "topics": [
+          "arts-culture"
+        ],
+        "publisherFamily": "far-out"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-508ee13e341bdb1de7270497",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "faroutmagazine.co.uk",
+        "publisherName": "faroutmagazine.co.uk",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected arts-culture feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://faroutmagazine.co.uk/feed/",
+        "reference": {
+          "feedUrl": "https://faroutmagazine.co.uk/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "faroutmagazine.co.uk"
+          ],
+          "articleHosts": [
+            "faroutmagazine.co.uk"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-242377d1e05feb42181eb662",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "arts-culture",
+        "topics": [
+          "arts-culture"
+        ],
+        "publisherFamily": "hyperallergic"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-242377d1e05feb42181eb662",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "hyperallergic.com",
+        "publisherName": "hyperallergic.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected arts-culture feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://hyperallergic.com/feed/",
+        "reference": {
+          "feedUrl": "https://hyperallergic.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "hyperallergic.com"
+          ],
+          "articleHosts": [
+            "hyperallergic.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-bc219d4e76fb38d36bdfb541",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "arts-culture",
+        "topics": [
+          "arts-culture"
+        ],
+        "publisherFamily": "operawire"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-bc219d4e76fb38d36bdfb541",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "operawire.com",
+        "publisherName": "operawire.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected arts-culture feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://operawire.com/feed/",
+        "reference": {
+          "feedUrl": "https://operawire.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "operawire.com"
+          ],
+          "articleHosts": [
+            "operawire.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-d538d63a1b9b9d2ad6716b32",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "arts-culture",
+        "topics": [
+          "arts-culture"
+        ],
+        "publisherFamily": "the-quietus"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-d538d63a1b9b9d2ad6716b32",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "thequietus.com",
+        "publisherName": "thequietus.com",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected arts-culture feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://thequietus.com/feed/",
+        "reference": {
+          "feedUrl": "https://thequietus.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "thequietus.com"
+          ],
+          "articleHosts": [
+            "thequietus.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-567da99918653b7bb4e2694b",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "arts-culture",
+        "topics": [
+          "arts-culture"
+        ],
+        "publisherFamily": "designboom"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-567da99918653b7bb4e2694b",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.designboom.com",
+        "publisherName": "www.designboom.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected arts-culture feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.designboom.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.designboom.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.designboom.com"
+          ],
+          "articleHosts": [
+            "www.designboom.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-2d0e372738986fb825de0c6c",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "arts-culture",
+        "topics": [
+          "arts-culture"
+        ],
+        "publisherFamily": "musicbusinessworldwide.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-2d0e372738986fb825de0c6c",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.musicbusinessworldwide.com",
+        "publisherName": "www.musicbusinessworldwide.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected arts-culture feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.musicbusinessworldwide.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.musicbusinessworldwide.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.musicbusinessworldwide.com"
+          ],
+          "articleHosts": [
+            "www.musicbusinessworldwide.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-d042c91a5c5fa8c074581709",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "arts-culture",
+        "topics": [
+          "arts-culture"
+        ],
+        "publisherFamily": "open-culture"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-d042c91a5c5fa8c074581709",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.openculture.com",
+        "publisherName": "www.openculture.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected arts-culture feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.openculture.com/feed",
+        "reference": {
+          "feedUrl": "https://www.openculture.com/feed",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.openculture.com"
+          ],
+          "articleHosts": [
+            "www.openculture.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-15726ece12307d036d6e7b3f",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "arts-culture",
+        "topics": [
+          "arts-culture"
+        ],
+        "publisherFamily": "colossal"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-15726ece12307d036d6e7b3f",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.thisiscolossal.com",
+        "publisherName": "www.thisiscolossal.com",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected arts-culture feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.thisiscolossal.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.thisiscolossal.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.thisiscolossal.com"
+          ],
+          "articleHosts": [
+            "www.thisiscolossal.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-f18274e09366911a76cee483",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "accountancy-age"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-f18274e09366911a76cee483",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "accountancyage.com",
+        "publisherName": "Accountancy Age",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://accountancyage.com/feed/",
+        "reference": {
+          "feedUrl": "https://accountancyage.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "accountancyage.com"
+          ],
+          "articleHosts": [
+            "accountancyage.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-c596d8b596b3e6c16a0e8519",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "capital-business-media"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-c596d8b596b3e6c16a0e8519",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "bmmagazine.co.uk",
+        "publisherName": "Business Matters",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://bmmagazine.co.uk/feed/",
+        "reference": {
+          "feedUrl": "https://bmmagazine.co.uk/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "bmmagazine.co.uk"
+          ],
+          "articleHosts": [
+            "bmmagazine.co.uk"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-81cc8d838ca275e2cd8253da",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "cointelegraph.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-81cc8d838ca275e2cd8253da",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "cointelegraph.com",
+        "publisherName": "cointelegraph.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://cointelegraph.com/rss",
+        "reference": {
+          "feedUrl": "https://cointelegraph.com/rss",
+          "listingUrls": [],
+          "feedHosts": [
+            "cointelegraph.com"
+          ],
+          "articleHosts": [
+            "cointelegraph.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-9430d545655b39814f1dbddc",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "cryptonews.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-9430d545655b39814f1dbddc",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "cryptonews.com",
+        "publisherName": "cryptonews.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://cryptonews.com/news/feed",
+        "reference": {
+          "feedUrl": "https://cryptonews.com/news/feed",
+          "listingUrls": [],
+          "feedHosts": [
+            "cryptonews.com"
+          ],
+          "articleHosts": [
+            "cryptonews.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-5a8afe446f0ed2ee66f3ba65",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "cryptopotato.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-5a8afe446f0ed2ee66f3ba65",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "cryptopotato.com",
+        "publisherName": "cryptopotato.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://cryptopotato.com/feed/",
+        "reference": {
+          "feedUrl": "https://cryptopotato.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "cryptopotato.com"
+          ],
+          "articleHosts": [
+            "cryptopotato.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-b68c6629dc2df69c41980d7f",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "nairametrics"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-b68c6629dc2df69c41980d7f",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "nairametrics.com",
+        "publisherName": "Nairametrics",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://nairametrics.com/feed/",
+        "reference": {
+          "feedUrl": "https://nairametrics.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "nairametrics.com"
+          ],
+          "articleHosts": [
+            "nairametrics.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-911473d0cfe9b8d446f99d4b",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "scottish-business-news"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-911473d0cfe9b8d446f99d4b",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "scottishbusinessnews.net",
+        "publisherName": "scottishbusinessnews.net",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://scottishbusinessnews.net/feed/",
+        "reference": {
+          "feedUrl": "https://scottishbusinessnews.net/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "scottishbusinessnews.net"
+          ],
+          "articleHosts": [
+            "scottishbusinessnews.net"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-b8dfdebe6b4df1855c2b5e82",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "cryptoninjas.net"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-b8dfdebe6b4df1855c2b5e82",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.cryptoninjas.net",
+        "publisherName": "www.cryptoninjas.net",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.cryptoninjas.net/feed/",
+        "reference": {
+          "feedUrl": "https://www.cryptoninjas.net/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.cryptoninjas.net"
+          ],
+          "articleHosts": [
+            "www.cryptoninjas.net"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-45ac990403e461a5feaf8243",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "wells-media"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-45ac990403e461a5feaf8243",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.insurancejournal.com",
+        "publisherName": "Insurance Journal",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.insurancejournal.com/rss/news/",
+        "reference": {
+          "feedUrl": "https://www.insurancejournal.com/rss/news/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.insurancejournal.com"
+          ],
+          "articleHosts": [
+            "www.insurancejournal.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-1f44c63a099a8c51dbbd257d",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "ht-media"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-1f44c63a099a8c51dbbd257d",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.livemint.com",
+        "publisherName": "Mint",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.livemint.com/rss/news",
+        "reference": {
+          "feedUrl": "https://www.livemint.com/rss/news",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.livemint.com"
+          ],
+          "articleHosts": [
+            "www.livemint.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-972663d68dd14aff9cdc4f2d",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "moneycrashers.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-972663d68dd14aff9cdc4f2d",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.moneycrashers.com",
+        "publisherName": "www.moneycrashers.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.moneycrashers.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.moneycrashers.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.moneycrashers.com"
+          ],
+          "articleHosts": [
+            "www.moneycrashers.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-5a528563e63e9a9fa44851b6",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "moneyunder30.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-5a528563e63e9a9fa44851b6",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.moneyunder30.com",
+        "publisherName": "www.moneyunder30.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.moneyunder30.com/feed",
+        "reference": {
+          "feedUrl": "https://www.moneyunder30.com/feed",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.moneyunder30.com"
+          ],
+          "articleHosts": [
+            "www.moneyunder30.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-32d91f858005943585eb8bd9",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "newsbtc.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-32d91f858005943585eb8bd9",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.newsbtc.com",
+        "publisherName": "www.newsbtc.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.newsbtc.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.newsbtc.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.newsbtc.com"
+          ],
+          "articleHosts": [
+            "www.newsbtc.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-05a1e2ef784a3a0571a043fd",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "rte"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-05a1e2ef784a3a0571a043fd",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.rte.ie",
+        "publisherName": "RTE Business",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.rte.ie/feeds/rss/?index=/news/business/",
+        "reference": {
+          "feedUrl": "https://www.rte.ie/feeds/rss/?index=/news/business/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.rte.ie"
+          ],
+          "articleHosts": [
+            "www.rte.ie"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-72a1f79c321e3baa0d606ff3",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "business-finance",
+        "topics": [
+          "business-finance"
+        ],
+        "publisherFamily": "savingadvice.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-72a1f79c321e3baa0d606ff3",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.savingadvice.com",
+        "publisherName": "www.savingadvice.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected business-finance feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.savingadvice.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.savingadvice.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.savingadvice.com"
+          ],
+          "articleHosts": [
+            "www.savingadvice.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-582cf277c2f2941efa17cbb4",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "current-affairs",
+        "topics": [
+          "current-affairs"
+        ],
+        "publisherFamily": "royal-african-society"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-582cf277c2f2941efa17cbb4",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "africanarguments.org",
+        "publisherName": "African Arguments",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected current-affairs feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://africanarguments.org/feed/",
+        "reference": {
+          "feedUrl": "https://africanarguments.org/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "africanarguments.org"
+          ],
+          "articleHosts": [
+            "africanarguments.org"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-86b8963b2a82ce2c45126a0c",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "current-affairs",
+        "topics": [
+          "current-affairs"
+        ],
+        "publisherFamily": "breaking-media"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-86b8963b2a82ce2c45126a0c",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "breakingdefense.com",
+        "publisherName": "Breaking Defense",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected current-affairs feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://breakingdefense.com/feed/",
+        "reference": {
+          "feedUrl": "https://breakingdefense.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "breakingdefense.com"
+          ],
+          "articleHosts": [
+            "breakingdefense.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-0f3fb39be7a33e1a95c7c9eb",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "current-affairs",
+        "topics": [
+          "current-affairs"
+        ],
+        "publisherFamily": "demerara-waves"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-0f3fb39be7a33e1a95c7c9eb",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "demerarawaves.com",
+        "publisherName": "demerarawaves.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected current-affairs feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://demerarawaves.com/feed/",
+        "reference": {
+          "feedUrl": "https://demerarawaves.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "demerarawaves.com"
+          ],
+          "articleHosts": [
+            "demerarawaves.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-dd0d7e7448d391ea8c3155c9",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "current-affairs",
+        "topics": [
+          "current-affairs"
+        ],
+        "publisherFamily": "times-group"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-dd0d7e7448d391ea8c3155c9",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "timesofindia.indiatimes.com",
+        "publisherName": "timesofindia.indiatimes.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected current-affairs feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+        "reference": {
+          "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+          "listingUrls": [],
+          "feedHosts": [
+            "timesofindia.indiatimes.com"
+          ],
+          "articleHosts": [
+            "timesofindia.indiatimes.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-70910589a3104b1d17f22922",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "current-affairs",
+        "topics": [
+          "current-affairs"
+        ],
+        "publisherFamily": "daily-maverick"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-70910589a3104b1d17f22922",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.dailymaverick.co.za",
+        "publisherName": "www.dailymaverick.co.za",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected current-affairs feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.dailymaverick.co.za/dmrss/",
+        "reference": {
+          "feedUrl": "https://www.dailymaverick.co.za/dmrss/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.dailymaverick.co.za"
+          ],
+          "articleHosts": [
+            "www.dailymaverick.co.za"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-e66f5d335e6c7f2c146ddc13",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "current-affairs",
+        "topics": [
+          "current-affairs"
+        ],
+        "publisherFamily": "independent-uganda"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-e66f5d335e6c7f2c146ddc13",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.independent.co.ug",
+        "publisherName": "The Independent Uganda",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected current-affairs feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.independent.co.ug/feed/",
+        "reference": {
+          "feedUrl": "https://www.independent.co.ug/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.independent.co.ug"
+          ],
+          "articleHosts": [
+            "www.independent.co.ug"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-8c566c8b87d9bfaa3306640d",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "current-affairs",
+        "topics": [
+          "current-affairs"
+        ],
+        "publisherFamily": "independent-uk"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-8c566c8b87d9bfaa3306640d",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.independent.co.uk",
+        "publisherName": "The Independent",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected current-affairs feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.independent.co.uk/news/world/rss",
+        "reference": {
+          "feedUrl": "https://www.independent.co.uk/news/world/rss",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.independent.co.uk"
+          ],
+          "articleHosts": [
+            "www.independent.co.uk"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-5da536566d18a9ecb700fd83",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "current-affairs",
+        "topics": [
+          "current-affairs"
+        ],
+        "publisherFamily": "limpopo-chronicle"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-5da536566d18a9ecb700fd83",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.limpopochronicle.co.za",
+        "publisherName": "www.limpopochronicle.co.za",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected current-affairs feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.limpopochronicle.co.za/feed/",
+        "reference": {
+          "feedUrl": "https://www.limpopochronicle.co.za/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.limpopochronicle.co.za"
+          ],
+          "articleHosts": [
+            "www.limpopochronicle.co.za"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-67dd41043deca605e8c0a009",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "current-affairs",
+        "topics": [
+          "current-affairs"
+        ],
+        "publisherFamily": "middle-east-monitor"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-67dd41043deca605e8c0a009",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.middleeastmonitor.com",
+        "publisherName": "Middle East Monitor",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected current-affairs feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.middleeastmonitor.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.middleeastmonitor.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.middleeastmonitor.com"
+          ],
+          "articleHosts": [
+            "www.middleeastmonitor.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "FS-PF261018-107",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "current-affairs",
+        "topics": [
+          "current-affairs"
+        ],
+        "publisherFamily": "opendemocracy.net"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "FS-PF261018-107",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.opendemocracy.net",
+        "publisherName": "www.opendemocracy.net",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected current-affairs feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.opendemocracy.net/rss/",
+        "reference": {
+          "feedUrl": "https://www.opendemocracy.net/rss/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.opendemocracy.net"
+          ],
+          "articleHosts": [
+            "www.opendemocracy.net"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-3ddefad5b44e9c4a054efdf3",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "food-agriculture",
+        "topics": [
+          "food-agriculture"
+        ],
+        "publisherFamily": "food-safety-news"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-3ddefad5b44e9c4a054efdf3",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.foodsafetynews.com",
+        "publisherName": "Food Safety News",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected food-agriculture feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.foodsafetynews.com/rss/",
+        "reference": {
+          "feedUrl": "https://www.foodsafetynews.com/rss/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.foodsafetynews.com"
+          ],
+          "articleHosts": [
+            "www.foodsafetynews.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-5855b9cfc909fcb84fa37917",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "health-medicine",
+        "topics": [
+          "health-medicine"
+        ],
+        "publisherFamily": "ibt-media"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-5855b9cfc909fcb84fa37917",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.medicaldaily.com",
+        "publisherName": "Medical Daily",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected health-medicine feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.medicaldaily.com/rss",
+        "reference": {
+          "feedUrl": "https://www.medicaldaily.com/rss",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.medicaldaily.com"
+          ],
+          "articleHosts": [
+            "www.medicaldaily.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-4d778f560942cb88a1ff1918",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "health-medicine",
+        "topics": [
+          "health-medicine"
+        ],
+        "publisherFamily": "news-medical.net"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-4d778f560942cb88a1ff1918",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.news-medical.net",
+        "publisherName": "www.news-medical.net",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected health-medicine feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.news-medical.net/syndication.axd",
+        "reference": {
+          "feedUrl": "https://www.news-medical.net/syndication.axd",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.news-medical.net"
+          ],
+          "articleHosts": [
+            "www.news-medical.net"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-91f7377833861e829e7bf3cb",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "health-medicine",
+        "topics": [
+          "health-medicine"
+        ],
+        "publisherFamily": "boston-globe-media"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-91f7377833861e829e7bf3cb",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.statnews.com",
+        "publisherName": "www.statnews.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected health-medicine feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.statnews.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.statnews.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.statnews.com"
+          ],
+          "articleHosts": [
+            "www.statnews.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "FS-PF261018-075",
+      "sourceClass": "major-national",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "news",
+        "topics": [
+          "news"
+        ],
+        "publisherFamily": "antiguaobserver.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "FS-PF261018-075",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "antiguaobserver.com",
+        "publisherName": "antiguaobserver.com",
+        "sourceClass": "major-national",
+        "scope": "FCD-selected news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://antiguaobserver.com/feed/",
+        "reference": {
+          "feedUrl": "https://antiguaobserver.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "antiguaobserver.com"
+          ],
+          "articleHosts": [
+            "antiguaobserver.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-7e72f0b4ec8682f670b0cc1a",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "news",
+        "topics": [
+          "news"
+        ],
+        "publisherFamily": "buenosairesherald.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-7e72f0b4ec8682f670b0cc1a",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "buenosairesherald.com",
+        "publisherName": "buenosairesherald.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://buenosairesherald.com/feed",
+        "reference": {
+          "feedUrl": "https://buenosairesherald.com/feed",
+          "listingUrls": [],
+          "feedHosts": [
+            "buenosairesherald.com"
+          ],
+          "articleHosts": [
+            "buenosairesherald.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "FS-PF261018-048",
+      "sourceClass": "major-national",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "news",
+        "topics": [
+          "news"
+        ],
+        "publisherFamily": "cyprus-mail.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "FS-PF261018-048",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "cyprus-mail.com",
+        "publisherName": "cyprus-mail.com",
+        "sourceClass": "major-national",
+        "scope": "FCD-selected news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://cyprus-mail.com/feed/",
+        "reference": {
+          "feedUrl": "https://cyprus-mail.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "cyprus-mail.com"
+          ],
+          "articleHosts": [
+            "cyprus-mail.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-a46bdc9fb8c31fce7212ece3",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "news",
+        "topics": [
+          "news"
+        ],
+        "publisherFamily": "dominicanewsonline.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-a46bdc9fb8c31fce7212ece3",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "dominicanewsonline.com",
+        "publisherName": "dominicanewsonline.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://dominicanewsonline.com/news/feed/",
+        "reference": {
+          "feedUrl": "https://dominicanewsonline.com/news/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "dominicanewsonline.com"
+          ],
+          "articleHosts": [
+            "dominicanewsonline.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-1959a14f019e21a180c8a842",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "news",
+        "topics": [
+          "news"
+        ],
+        "publisherFamily": "leadership.ng"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-1959a14f019e21a180c8a842",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "leadership.ng",
+        "publisherName": "leadership.ng",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://leadership.ng/feed/",
+        "reference": {
+          "feedUrl": "https://leadership.ng/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "leadership.ng"
+          ],
+          "articleHosts": [
+            "leadership.ng"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-0c1f13ac2ba7b6ded355de74",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "news",
+        "topics": [
+          "news"
+        ],
+        "publisherFamily": "bangkok-post"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-0c1f13ac2ba7b6ded355de74",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.bangkokpost.com",
+        "publisherName": "Bangkok Post",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.bangkokpost.com/rss/data/topstories.xml",
+        "reference": {
+          "feedUrl": "https://www.bangkokpost.com/rss/data/topstories.xml",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.bangkokpost.com"
+          ],
+          "articleHosts": [
+            "www.bangkokpost.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-9c97b246dcac954759cb1c29",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "news",
+        "topics": [
+          "news"
+        ],
+        "publisherFamily": "enca.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-9c97b246dcac954759cb1c29",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.enca.com",
+        "publisherName": "www.enca.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.enca.com/rss.xml",
+        "reference": {
+          "feedUrl": "https://www.enca.com/rss.xml",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.enca.com"
+          ],
+          "articleHosts": [
+            "www.enca.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-09977b87d6a6ec9a35c95384",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "news",
+        "topics": [
+          "news"
+        ],
+        "publisherFamily": "fbcnews.com.fj"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-09977b87d6a6ec9a35c95384",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.fbcnews.com.fj",
+        "publisherName": "www.fbcnews.com.fj",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.fbcnews.com.fj/feed/",
+        "reference": {
+          "feedUrl": "https://www.fbcnews.com.fj/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.fbcnews.com.fj"
+          ],
+          "articleHosts": [
+            "www.fbcnews.com.fj"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-4983d115663f4ba2107a6224",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "news",
+        "topics": [
+          "news"
+        ],
+        "publisherFamily": "postcourier.com.pg"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-4983d115663f4ba2107a6224",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.postcourier.com.pg",
+        "publisherName": "www.postcourier.com.pg",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.postcourier.com.pg/feed/",
+        "reference": {
+          "feedUrl": "https://www.postcourier.com.pg/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.postcourier.com.pg"
+          ],
+          "articleHosts": [
+            "www.postcourier.com.pg"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-87e2efae0a732cfe22fb5091",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "news",
+        "topics": [
+          "news"
+        ],
+        "publisherFamily": "rte"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-87e2efae0a732cfe22fb5091",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.rte.ie",
+        "publisherName": "www.rte.ie",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.rte.ie/feeds/rss/?index=/news/",
+        "reference": {
+          "feedUrl": "https://www.rte.ie/feeds/rss/?index=/news/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.rte.ie"
+          ],
+          "articleHosts": [
+            "www.rte.ie"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "FS-PF261018-174",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "regional-local-news",
+        "topics": [
+          "regional-local-news"
+        ],
+        "publisherFamily": "elgritodelsur.com.ar"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "FS-PF261018-174",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "elgritodelsur.com.ar",
+        "publisherName": "elgritodelsur.com.ar",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected regional-local-news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://elgritodelsur.com.ar/feed/",
+        "reference": {
+          "feedUrl": "https://elgritodelsur.com.ar/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "elgritodelsur.com.ar"
+          ],
+          "articleHosts": [
+            "elgritodelsur.com.ar"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-f17c481776c7e8812f64d697",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "regional-local-news",
+        "topics": [
+          "regional-local-news"
+        ],
+        "publisherFamily": "guildford-dragon"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-f17c481776c7e8812f64d697",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "guildford-dragon.com",
+        "publisherName": "guildford-dragon.com",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected regional-local-news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://guildford-dragon.com/feed/",
+        "reference": {
+          "feedUrl": "https://guildford-dragon.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "guildford-dragon.com"
+          ],
+          "articleHosts": [
+            "guildford-dragon.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "FS-PF261018-132",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "regional-local-news",
+        "topics": [
+          "regional-local-news"
+        ],
+        "publisherFamily": "hackneycitizen.co.uk"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "FS-PF261018-132",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "hackneycitizen.co.uk",
+        "publisherName": "hackneycitizen.co.uk",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected regional-local-news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://hackneycitizen.co.uk/latest/rss/",
+        "reference": {
+          "feedUrl": "https://hackneycitizen.co.uk/latest/rss/",
+          "listingUrls": [],
+          "feedHosts": [
+            "hackneycitizen.co.uk"
+          ],
+          "articleHosts": [
+            "hackneycitizen.co.uk"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-aa6c15ef26cb6c25015267af",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "regional-local-news",
+        "topics": [
+          "regional-local-news"
+        ],
+        "publisherFamily": "onthewight.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-aa6c15ef26cb6c25015267af",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "onthewight.com",
+        "publisherName": "onthewight.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected regional-local-news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://onthewight.com/feed/",
+        "reference": {
+          "feedUrl": "https://onthewight.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "onthewight.com"
+          ],
+          "articleHosts": [
+            "onthewight.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "FS-PF261018-026",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "regional-local-news",
+        "topics": [
+          "regional-local-news"
+        ],
+        "publisherFamily": "spacing.ca"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "FS-PF261018-026",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "spacing.ca",
+        "publisherName": "spacing.ca",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected regional-local-news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://spacing.ca/toronto/feed/",
+        "reference": {
+          "feedUrl": "https://spacing.ca/toronto/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "spacing.ca"
+          ],
+          "articleHosts": [
+            "spacing.ca"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "FS-PF261018-169",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "regional-local-news",
+        "topics": [
+          "regional-local-news"
+        ],
+        "publisherFamily": "thefulcrum.ca"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "FS-PF261018-169",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "thefulcrum.ca",
+        "publisherName": "thefulcrum.ca",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected regional-local-news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://thefulcrum.ca/feed/",
+        "reference": {
+          "feedUrl": "https://thefulcrum.ca/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "thefulcrum.ca"
+          ],
+          "articleHosts": [
+            "thefulcrum.ca"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "FS-PF261018-153",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "regional-local-news",
+        "topics": [
+          "regional-local-news"
+        ],
+        "publisherFamily": "theshillongtimes.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "FS-PF261018-153",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "theshillongtimes.com",
+        "publisherName": "theshillongtimes.com",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected regional-local-news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://theshillongtimes.com/feed/",
+        "reference": {
+          "feedUrl": "https://theshillongtimes.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "theshillongtimes.com"
+          ],
+          "articleHosts": [
+            "theshillongtimes.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "FS-PF261018-168",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "regional-local-news",
+        "topics": [
+          "regional-local-news"
+        ],
+        "publisherFamily": "villagepreservation.org"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "FS-PF261018-168",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "villagepreservation.org",
+        "publisherName": "villagepreservation.org",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected regional-local-news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://villagepreservation.org/feed/",
+        "reference": {
+          "feedUrl": "https://villagepreservation.org/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "villagepreservation.org"
+          ],
+          "articleHosts": [
+            "villagepreservation.org"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-8397a097afd537de1d5893b1",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "regional-local-news",
+        "topics": [
+          "regional-local-news"
+        ],
+        "publisherFamily": "westcorkpeople.ie"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-8397a097afd537de1d5893b1",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "westcorkpeople.ie",
+        "publisherName": "westcorkpeople.ie",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected regional-local-news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://westcorkpeople.ie/feed/",
+        "reference": {
+          "feedUrl": "https://westcorkpeople.ie/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "westcorkpeople.ie"
+          ],
+          "articleHosts": [
+            "westcorkpeople.ie"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-a3e3cb5524edd8dd365f827e",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "regional-local-news",
+        "topics": [
+          "regional-local-news"
+        ],
+        "publisherFamily": "bedford-independent"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-a3e3cb5524edd8dd365f827e",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.bedfordindependent.co.uk",
+        "publisherName": "www.bedfordindependent.co.uk",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected regional-local-news feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.bedfordindependent.co.uk/feed/",
+        "reference": {
+          "feedUrl": "https://www.bedfordindependent.co.uk/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.bedfordindependent.co.uk"
+          ],
+          "articleHosts": [
+            "www.bedfordindependent.co.uk"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-a30926d328d267970e3febb5",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "science-health",
+        "topics": [
+          "science-health"
+        ],
+        "publisherFamily": "earthsky"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-a30926d328d267970e3febb5",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "earthsky.org",
+        "publisherName": "earthsky.org",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected science-health feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://earthsky.org/feed/",
+        "reference": {
+          "feedUrl": "https://earthsky.org/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "earthsky.org"
+          ],
+          "articleHosts": [
+            "earthsky.org"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-20762d71c8c3f3b6f44ec6ed",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "science-health",
+        "topics": [
+          "science-health"
+        ],
+        "publisherFamily": "newatlas.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-20762d71c8c3f3b6f44ec6ed",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "newatlas.com",
+        "publisherName": "newatlas.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected science-health feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://newatlas.com/index.rss",
+        "reference": {
+          "feedUrl": "https://newatlas.com/index.rss",
+          "listingUrls": [],
+          "feedHosts": [
+            "newatlas.com"
+          ],
+          "articleHosts": [
+            "newatlas.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-c7e445866950adcd61f446e1",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "science-health",
+        "topics": [
+          "science-health"
+        ],
+        "publisherFamily": "center-scientific-integrity"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-c7e445866950adcd61f446e1",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "retractionwatch.com",
+        "publisherName": "Retraction Watch",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected science-health feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://retractionwatch.com/feed/",
+        "reference": {
+          "feedUrl": "https://retractionwatch.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "retractionwatch.com"
+          ],
+          "articleHosts": [
+            "retractionwatch.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-fa7dba7404009971ab55c106",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "science-health",
+        "topics": [
+          "science-health"
+        ],
+        "publisherFamily": "scitechdaily"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-fa7dba7404009971ab55c106",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "scitechdaily.com",
+        "publisherName": "scitechdaily.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected science-health feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://scitechdaily.com/feed/",
+        "reference": {
+          "feedUrl": "https://scitechdaily.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "scitechdaily.com"
+          ],
+          "articleHosts": [
+            "scitechdaily.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-5ab368593f852bfeecfecdab",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "science-health",
+        "topics": [
+          "science-health"
+        ],
+        "publisherFamily": "azo-network"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-5ab368593f852bfeecfecdab",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.azonano.com",
+        "publisherName": "www.azonano.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected science-health feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.azonano.com/syndication.axd?format=rss",
+        "reference": {
+          "feedUrl": "https://www.azonano.com/syndication.axd?format=rss",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.azonano.com"
+          ],
+          "articleHosts": [
+            "www.azonano.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-21fafcb186b2a67b8bb02ebe",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "science-health",
+        "topics": [
+          "science-health"
+        ],
+        "publisherFamily": "futurity"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-21fafcb186b2a67b8bb02ebe",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.futurity.org",
+        "publisherName": "www.futurity.org",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected science-health feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.futurity.org/feed/",
+        "reference": {
+          "feedUrl": "https://www.futurity.org/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.futurity.org"
+          ],
+          "articleHosts": [
+            "www.futurity.org"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-33006d12f3ea2723dac624c5",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "science-health",
+        "topics": [
+          "science-health"
+        ],
+        "publisherFamily": "psypost"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-33006d12f3ea2723dac624c5",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.psypost.org",
+        "publisherName": "PsyPost",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected science-health feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.psypost.org/feed/",
+        "reference": {
+          "feedUrl": "https://www.psypost.org/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.psypost.org"
+          ],
+          "articleHosts": [
+            "www.psypost.org"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-c7d4ea914fa235e42116a1e9",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "science-health",
+        "topics": [
+          "science-health"
+        ],
+        "publisherFamily": "sciencealert"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-c7d4ea914fa235e42116a1e9",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.sciencealert.com",
+        "publisherName": "www.sciencealert.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected science-health feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.sciencealert.com/feed",
+        "reference": {
+          "feedUrl": "https://www.sciencealert.com/feed",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.sciencealert.com"
+          ],
+          "articleHosts": [
+            "www.sciencealert.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-f5ae99cdd499da984b85302d",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "science-health",
+        "topics": [
+          "science-health"
+        ],
+        "publisherFamily": "smithsonian"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-f5ae99cdd499da984b85302d",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.smithsonianmag.com",
+        "publisherName": "Smithsonian Magazine",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected science-health feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.smithsonianmag.com/rss/latest_articles/",
+        "reference": {
+          "feedUrl": "https://www.smithsonianmag.com/rss/latest_articles/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.smithsonianmag.com"
+          ],
+          "articleHosts": [
+            "www.smithsonianmag.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-65d68fd243f5bca5ef2c360c",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "sports",
+        "topics": [
+          "sports"
+        ],
+        "publisherFamily": "fangraphs"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-65d68fd243f5bca5ef2c360c",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "blogs.fangraphs.com",
+        "publisherName": "FanGraphs",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected sports feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://blogs.fangraphs.com/feed/",
+        "reference": {
+          "feedUrl": "https://blogs.fangraphs.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "blogs.fangraphs.com"
+          ],
+          "articleHosts": [
+            "blogs.fangraphs.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-b30b7b9e71008a692d8f24b0",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "sports",
+        "topics": [
+          "sports"
+        ],
+        "publisherFamily": "cricket-addictor"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-b30b7b9e71008a692d8f24b0",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "cricketaddictor.com",
+        "publisherName": "Cricket Addictor",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected sports feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://cricketaddictor.com/feed/",
+        "reference": {
+          "feedUrl": "https://cricketaddictor.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "cricketaddictor.com"
+          ],
+          "articleHosts": [
+            "cricketaddictor.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-eb9e2ab8da6f8f6584c94a58",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "sports",
+        "topics": [
+          "sports"
+        ],
+        "publisherFamily": "swimswam"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-eb9e2ab8da6f8f6584c94a58",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "swimswam.com",
+        "publisherName": "SwimSwam",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected sports feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://swimswam.com/feed/",
+        "reference": {
+          "feedUrl": "https://swimswam.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "swimswam.com"
+          ],
+          "articleHosts": [
+            "swimswam.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-fd6be51ac92655377cad42c9",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "sports",
+        "topics": [
+          "sports"
+        ],
+        "publisherFamily": "chess-com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-fd6be51ac92655377cad42c9",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.chess.com",
+        "publisherName": "www.chess.com",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected sports feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.chess.com/rss/news",
+        "reference": {
+          "feedUrl": "https://www.chess.com/rss/news",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.chess.com"
+          ],
+          "articleHosts": [
+            "www.chess.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-db200666f3c453bdc1025bd7",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "sports",
+        "topics": [
+          "sports"
+        ],
+        "publisherFamily": "mlb"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-db200666f3c453bdc1025bd7",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.mlb.com",
+        "publisherName": "www.mlb.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected sports feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.mlb.com/yankees/feeds/news/rss.xml",
+        "reference": {
+          "feedUrl": "https://www.mlb.com/yankees/feeds/news/rss.xml",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.mlb.com"
+          ],
+          "articleHosts": [
+            "www.mlb.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-82da87ee861d480e8323e4c2",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "sports",
+        "topics": [
+          "sports"
+        ],
+        "publisherFamily": "scuttlebutt"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-82da87ee861d480e8323e4c2",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.sailingscuttlebutt.com",
+        "publisherName": "Scuttlebutt Sailing News",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected sports feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.sailingscuttlebutt.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.sailingscuttlebutt.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.sailingscuttlebutt.com"
+          ],
+          "articleHosts": [
+            "www.sailingscuttlebutt.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-fc4744035e3955d8506ea8a1",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "sports",
+        "topics": [
+          "sports"
+        ],
+        "publisherFamily": "comcast-nbcuniversal"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-fc4744035e3955d8506ea8a1",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.skysports.com",
+        "publisherName": "www.skysports.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected sports feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.skysports.com/rss/12040",
+        "reference": {
+          "feedUrl": "https://www.skysports.com/rss/12040",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.skysports.com"
+          ],
+          "articleHosts": [
+            "www.skysports.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-d17adc5985dde695afde8bb3",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "sports",
+        "topics": [
+          "sports"
+        ],
+        "publisherFamily": "the-race.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-d17adc5985dde695afde8bb3",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.the-race.com",
+        "publisherName": "www.the-race.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected sports feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.the-race.com/rss/",
+        "reference": {
+          "feedUrl": "https://www.the-race.com/rss/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.the-race.com"
+          ],
+          "articleHosts": [
+            "www.the-race.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-2f3b69ac70035fb07dfca9bc",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "blog.cloudflare.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-2f3b69ac70035fb07dfca9bc",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "blog.cloudflare.com",
+        "publisherName": "blog.cloudflare.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://blog.cloudflare.com/rss",
+        "reference": {
+          "feedUrl": "https://blog.cloudflare.com/rss",
+          "listingUrls": [],
+          "feedHosts": [
+            "blog.cloudflare.com"
+          ],
+          "articleHosts": [
+            "blog.cloudflare.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-b5e99905f8a612b24531dd0c",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "macrumors"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-b5e99905f8a612b24531dd0c",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "feeds.macrumors.com",
+        "publisherName": "MacRumors",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://feeds.macrumors.com/MacRumors-All",
+        "reference": {
+          "feedUrl": "https://feeds.macrumors.com/MacRumors-All",
+          "listingUrls": [],
+          "feedHosts": [
+            "feeds.macrumors.com"
+          ],
+          "articleHosts": [
+            "www.macrumors.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-347eb71b4f40dbb2ef56623b",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "itsfoss"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-347eb71b4f40dbb2ef56623b",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "itsfoss.com",
+        "publisherName": "Its FOSS News",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://itsfoss.com/news/rss/",
+        "reference": {
+          "feedUrl": "https://itsfoss.com/news/rss/",
+          "listingUrls": [],
+          "feedHosts": [
+            "itsfoss.com"
+          ],
+          "articleHosts": [
+            "itsfoss.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-5a5501a19f59ef430bf4cfcb",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "linuxiac"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-5a5501a19f59ef430bf4cfcb",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "linuxiac.com",
+        "publisherName": "Linuxiac",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://linuxiac.com/feed/",
+        "reference": {
+          "feedUrl": "https://linuxiac.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "linuxiac.com"
+          ],
+          "articleHosts": [
+            "linuxiac.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-2219b045ae7dfa1fcc2d4b87",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "siliconangle"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-2219b045ae7dfa1fcc2d4b87",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "siliconangle.com",
+        "publisherName": "SiliconANGLE",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://siliconangle.com/feed/",
+        "reference": {
+          "feedUrl": "https://siliconangle.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "siliconangle.com"
+          ],
+          "articleHosts": [
+            "siliconangle.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-f84187f7c52ef9b346198263",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "techcrunch"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-f84187f7c52ef9b346198263",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "techcrunch.com",
+        "publisherName": "techcrunch.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://techcrunch.com/feed/",
+        "reference": {
+          "feedUrl": "https://techcrunch.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "techcrunch.com"
+          ],
+          "articleHosts": [
+            "techcrunch.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-18382aea95266bd80f84d1e7",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "tnw"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-18382aea95266bd80f84d1e7",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "thenextweb.com",
+        "publisherName": "The Next Web",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://thenextweb.com/feed",
+        "reference": {
+          "feedUrl": "https://thenextweb.com/feed",
+          "listingUrls": [],
+          "feedHosts": [
+            "thenextweb.com"
+          ],
+          "articleHosts": [
+            "thenextweb.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-e8ed5dbf0897f82eb0ea49a7",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "android-authority"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-e8ed5dbf0897f82eb0ea49a7",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.androidauthority.com",
+        "publisherName": "Android Authority",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.androidauthority.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.androidauthority.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.androidauthority.com"
+          ],
+          "articleHosts": [
+            "www.androidauthority.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-bf04d96d579aed6d97971979",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "droid-life"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-bf04d96d579aed6d97971979",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.droid-life.com",
+        "publisherName": "Droid Life",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.droid-life.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.droid-life.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.droid-life.com"
+          ],
+          "articleHosts": [
+            "www.droid-life.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-2ccba97d94b1107757b71d74",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "yahoo"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-2ccba97d94b1107757b71d74",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.engadget.com",
+        "publisherName": "Engadget",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.engadget.com/rss.xml",
+        "reference": {
+          "feedUrl": "https://www.engadget.com/rss.xml",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.engadget.com"
+          ],
+          "articleHosts": [
+            "www.engadget.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-40c2bd2340df24aa0c9de5dd",
+      "sourceClass": "local-niche",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "gaming-on-linux"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-40c2bd2340df24aa0c9de5dd",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.gamingonlinux.com",
+        "publisherName": "www.gamingonlinux.com",
+        "sourceClass": "local-niche",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.gamingonlinux.com/article_rss.php",
+        "reference": {
+          "feedUrl": "https://www.gamingonlinux.com/article_rss.php",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.gamingonlinux.com"
+          ],
+          "articleHosts": [
+            "www.gamingonlinux.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-119694678abfad7bc956d391",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "geekwire"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-119694678abfad7bc956d391",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.geekwire.com",
+        "publisherName": "GeekWire",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.geekwire.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.geekwire.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.geekwire.com"
+          ],
+          "articleHosts": [
+            "www.geekwire.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-26bb800c0ddb436c1079ea4b",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "hackster-avnet"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-26bb800c0ddb436c1079ea4b",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.hackster.io",
+        "publisherName": "www.hackster.io",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.hackster.io/news.rss",
+        "reference": {
+          "feedUrl": "https://www.hackster.io/news.rss",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.hackster.io"
+          ],
+          "articleHosts": [
+            "www.hackster.io"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-2d89e672da68a2ff4d811313",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "valnet"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-2d89e672da68a2ff4d811313",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.howtogeek.com",
+        "publisherName": "How-To Geek",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.howtogeek.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.howtogeek.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.howtogeek.com"
+          ],
+          "articleHosts": [
+            "www.howtogeek.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-1fd457774e83e98d764eedad",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "ohso"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-1fd457774e83e98d764eedad",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.omgubuntu.co.uk",
+        "publisherName": "OMG Ubuntu",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.omgubuntu.co.uk/feed",
+        "reference": {
+          "feedUrl": "https://www.omgubuntu.co.uk/feed",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.omgubuntu.co.uk"
+          ],
+          "articleHosts": [
+            "www.omgubuntu.co.uk"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-8cc4aa5a16dc3d0fcca99053",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "efy"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-8cc4aa5a16dc3d0fcca99053",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.opensourceforu.com",
+        "publisherName": "Open Source For You",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.opensourceforu.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.opensourceforu.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.opensourceforu.com"
+          ],
+          "articleHosts": [
+            "www.opensourceforu.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-0df6c05672faf74696a89a4b",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "technology",
+        "topics": [
+          "technology"
+        ],
+        "publisherFamily": "floor64"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-0df6c05672faf74696a89a4b",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.techdirt.com",
+        "publisherName": "Techdirt",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected technology feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.techdirt.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.techdirt.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.techdirt.com"
+          ],
+          "articleHosts": [
+            "www.techdirt.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-502822d9f3cfd4d064dcc8e3",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "transportation-travel",
+        "topics": [
+          "transportation-travel"
+        ],
+        "publisherFamily": "gcaptain"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-502822d9f3cfd4d064dcc8e3",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "gcaptain.com",
+        "publisherName": "gCaptain",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected transportation-travel feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://gcaptain.com/feed/",
+        "reference": {
+          "feedUrl": "https://gcaptain.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "gcaptain.com"
+          ],
+          "articleHosts": [
+            "gcaptain.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-3a34d533cce962ef92d331ed",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "transportation-travel",
+        "topics": [
+          "transportation-travel"
+        ],
+        "publisherFamily": "skift"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-3a34d533cce962ef92d331ed",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "skift.com",
+        "publisherName": "Skift",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected transportation-travel feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://skift.com/feed/",
+        "reference": {
+          "feedUrl": "https://skift.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "skift.com"
+          ],
+          "articleHosts": [
+            "skift.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-e081bf72d79ee8a8a5c00586",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "transportation-travel",
+        "topics": [
+          "transportation-travel"
+        ],
+        "publisherFamily": "carscoops.com"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-e081bf72d79ee8a8a5c00586",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.carscoops.com",
+        "publisherName": "www.carscoops.com",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected transportation-travel feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.carscoops.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.carscoops.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.carscoops.com"
+          ],
+          "articleHosts": [
+            "www.carscoops.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    },
+    {
+      "sourceId": "feed-24b7e243831d173ccb9235ab",
+      "sourceClass": "specialist",
+      "membership": "public-launch",
+      "samplingMetadata": {
+        "version": "freshsearch-fcd-sampling-metadata-v1",
+        "category": "transportation-travel",
+        "topics": [
+          "transportation-travel"
+        ],
+        "publisherFamily": "ttg-asia"
+      },
+      "rubric": {
+        "version": "fresh-search-question-rubric-v1",
+        "status": "pass",
+        "reasons": []
+      },
+      "contract": {
+        "version": "publisher-freshness-task-v1",
+        "queryId": "feed-24b7e243831d173ccb9235ab",
+        "releaseId": "freshsearch-fcd-catalog-v1",
+        "publisherId": "www.ttgasia.com",
+        "publisherName": "TTG Asia",
+        "sourceClass": "specialist",
+        "scope": "FCD-selected transportation-travel feed; not whole-site newestness.",
+        "queryText": "Known-item lookup from https://www.ttgasia.com/feed/",
+        "reference": {
+          "feedUrl": "https://www.ttgasia.com/feed/",
+          "listingUrls": [],
+          "feedHosts": [
+            "www.ttgasia.com"
+          ],
+          "articleHosts": [
+            "www.ttgasia.com"
+          ],
+          "publicationAuthority": "publisher-feed-original-v1",
+          "frontierSelection": "freshsearch-feed-order-v1",
+          "articleParsing": "bounded-512k-html-v1"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "version": "freshsearch-portable-input-v1",
+  "panel": "fcd",
+  "kind": "synthetic-fixture",
+  "episodes": [
+    {
+      "id": "synthetic-feed",
+      "providerId": "fixture",
+      "eligible": true,
+      "targets": [
+        {
+          "rank": 1,
+          "url": "https://publisher.example.com/science/article-1",
+          "aliases": [
+            "https://publisher.example.com/science/article-1"
+          ],
+          "title": "Synthetic article 1",
+          "publishedAt": "2026-11-05T17:50:00.000Z",
+          "status": "captured",
+          "requestTime": "2026-11-05T18:00:00.000Z",
+          "results": [
+            {
+              "url": "https://publisher.example.com/science/article-1",
+              "content": "Synthetic article text. Synthetic article text. Synthetic article text. Synthetic article text. Synthetic article text. "
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "url": "https://publisher.example.com/science/article-2",
+          "aliases": [
+            "https://publisher.example.com/science/article-2"
+          ],
+          "title": "Synthetic article 2",
+          "publishedAt": "2026-11-05T17:30:00.000Z",
+          "status": "captured",
+          "requestTime": "2026-11-05T18:00:00.000Z",
+          "results": []
+        },
+        {
+          "rank": 3,
+          "url": "https://publisher.example.com/science/article-3",
+          "aliases": [
+            "https://publisher.example.com/science/article-3"
+          ],
+          "title": "Synthetic article 3",
+          "publishedAt": "2026-11-05T17:00:00.000Z",
+          "status": "captured",
+          "requestTime": "2026-11-05T18:00:00.000Z",
+          "results": [
+            {
+              "url": "https://publisher.example.com/science/article-3",
+              "content": "Synthetic article text. Synthetic article text. Synthetic article text. Synthetic article text. Synthetic article text. "
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "url": "https://publisher.example.com/science/article-4",
+          "aliases": [
+            "https://publisher.example.com/science/article-4"
+          ],
+          "title": "Synthetic article 4",
+          "publishedAt": "2026-11-05T12:00:00.000Z",
+          "status": "captured",
+          "requestTime": "2026-11-05T18:00:00.000Z",
+          "results": []
+        },
+        {
+          "rank": 5,
+          "url": "https://publisher.example.com/science/article-5",
+          "aliases": [
+            "https://publisher.example.com/science/article-5"
+          ],
+          "title": "Synthetic article 5",
+          "publishedAt": "2026-11-04T18:00:00.000Z",
+          "status": "captured",
+          "requestTime": "2026-11-05T18:00:00.000Z",
+          "results": [
+            {
+              "url": "https://publisher.example.com/science/article-5",
+              "content": "Synthetic article text. Synthetic article text. Synthetic article text. Synthetic article text. Synthetic article text. "
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "url": "https://publisher.example.com/science/article-6",
+          "aliases": [
+            "https://publisher.example.com/science/article-6"
+          ],
+          "title": "Synthetic article 6",
+          "publishedAt": "2026-11-05T17:50:00.000Z",
+          "status": "captured",
+          "requestTime": "2026-11-05T18:00:00.000Z",
+          "results": []
+        },
+        {
+          "rank": 7,
+          "url": "https://publisher.example.com/science/article-7",
+          "aliases": [
+            "https://publisher.example.com/science/article-7"
+          ],
+          "title": "Synthetic article 7",
+          "publishedAt": "2026-11-05T17:50:00.000Z",
+          "status": "captured",
+          "requestTime": "2026-11-05T18:00:00.000Z",
+          "results": [
+            {
+              "url": "https://publisher.example.com/science/article-7",
+              "content": "Synthetic article text. Synthetic article text. Synthetic article text. Synthetic article text. Synthetic article text. "
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "url": "https://publisher.example.com/science/article-8",
+          "aliases": [
+            "https://publisher.example.com/science/article-8"
+          ],
+          "title": "Synthetic article 8",
+          "publishedAt": "2026-11-05T17:50:00.000Z",
+          "status": "captured",
+          "requestTime": "2026-11-05T18:00:00.000Z",
+          "results": []
+        },
+        {
+          "rank": 9,
+          "url": "https://publisher.example.com/science/article-9",
+          "aliases": [
+            "https://publisher.example.com/science/article-9"
+          ],
+          "title": "Synthetic article 9",
+          "publishedAt": "2026-11-05T17:50:00.000Z",
+          "status": "captured",
+          "requestTime": "2026-11-05T18:00:00.000Z",
+          "results": [
+            {
+              "url": "https://publisher.example.com/science/article-9",
+              "content": "Synthetic article text. Synthetic article text. Synthetic article text. Synthetic article text. Synthetic article text. "
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "url": "https://publisher.example.com/science/article-10",
+          "aliases": [
+            "https://publisher.example.com/science/article-10"
+          ],
+          "title": "Synthetic article 10",
+          "publishedAt": "2026-11-05T17:50:00.000Z",
+          "status": "provider-error",
+          "reason": "synthetic-provider-failure",
+          "results": []
+        }
+      ]
+    },
+    {
+      "id": "held-feed",
+      "providerId": "fixture",
+      "eligible": false,
+      "reason": "synthetic-source-access-hold"
+    }
+  ]
+}

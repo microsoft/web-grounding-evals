@@ -1,0 +1,223 @@
+{
+  "version": "freshsearch-portable-report-v1",
+  "panel": "fcd",
+  "kind": "synthetic-fixture",
+  "policy": {
+    "scoringVersion": "freshsearch-fcd-age-v1",
+    "ageBands": [
+      {
+        "label": "Under 30m",
+        "maxAgeMinutes": 30,
+        "points": 15
+      },
+      {
+        "label": "30m–1h",
+        "maxAgeMinutes": 60,
+        "points": 10
+      },
+      {
+        "label": "1–6h",
+        "maxAgeMinutes": 360,
+        "points": 5
+      },
+      {
+        "label": "6–24h",
+        "maxAgeMinutes": 1440,
+        "points": 2
+      },
+      {
+        "label": "24h+",
+        "maxAgeMinutes": null,
+        "points": 1
+      }
+    ]
+  },
+  "summary": [
+    {
+      "providerId": "fixture",
+      "assignedRows": 11,
+      "scoredRows": 9,
+      "heldRows": 1,
+      "unknownRows": 1,
+      "zeroScoreRows": 4,
+      "coverage": 0.45,
+      "score": 54.83870967741935,
+      "earnedPoints": 51,
+      "possiblePoints": 93,
+      "assignedTargets": 20,
+      "heldFeeds": 1
+    }
+  ],
+  "cases": [
+    {
+      "id": "synthetic-feed/1",
+      "providerId": "fixture",
+      "status": "scored",
+      "score": 100,
+      "reason": "hit",
+      "ageMinutes": 10,
+      "points": 15,
+      "earnedPoints": 15,
+      "details": {
+        "hit": true,
+        "withText": true,
+        "firstRank": 1,
+        "resultCount": 1
+      },
+      "recordHash": "2c022da9ed87d2cd37e96e04e42eda5ab76c4db8739581e8cdcf7fd46e9442b7"
+    },
+    {
+      "id": "synthetic-feed/2",
+      "providerId": "fixture",
+      "status": "scored",
+      "score": 0,
+      "reason": "miss",
+      "ageMinutes": 30,
+      "points": 10,
+      "earnedPoints": 0,
+      "details": {
+        "hit": false,
+        "withText": false,
+        "firstRank": null,
+        "resultCount": 0
+      },
+      "recordHash": "423d2c09a4ce418934e99033a460bfa0020affee4e01b1aecc4275f8a96a7206"
+    },
+    {
+      "id": "synthetic-feed/3",
+      "providerId": "fixture",
+      "status": "scored",
+      "score": 100,
+      "reason": "hit",
+      "ageMinutes": 60,
+      "points": 5,
+      "earnedPoints": 5,
+      "details": {
+        "hit": true,
+        "withText": true,
+        "firstRank": 1,
+        "resultCount": 1
+      },
+      "recordHash": "fbe258c682b99ecca93f04960bcde74a0bcf4a92816c729c6f8960c8efb1ae58"
+    },
+    {
+      "id": "synthetic-feed/4",
+      "providerId": "fixture",
+      "status": "scored",
+      "score": 0,
+      "reason": "miss",
+      "ageMinutes": 360,
+      "points": 2,
+      "earnedPoints": 0,
+      "details": {
+        "hit": false,
+        "withText": false,
+        "firstRank": null,
+        "resultCount": 0
+      },
+      "recordHash": "b6f5c68d0dd3005c10e7fe022909d1ec57948063f2647a8fae7f0fbe56744eef"
+    },
+    {
+      "id": "synthetic-feed/5",
+      "providerId": "fixture",
+      "status": "scored",
+      "score": 100,
+      "reason": "hit",
+      "ageMinutes": 1440,
+      "points": 1,
+      "earnedPoints": 1,
+      "details": {
+        "hit": true,
+        "withText": true,
+        "firstRank": 1,
+        "resultCount": 1
+      },
+      "recordHash": "40140b0c6fd2ac007b49b3fc55f50ecd4b44aedfdfe32d98b80bf922bb71da5e"
+    },
+    {
+      "id": "synthetic-feed/6",
+      "providerId": "fixture",
+      "status": "scored",
+      "score": 0,
+      "reason": "miss",
+      "ageMinutes": 10,
+      "points": 15,
+      "earnedPoints": 0,
+      "details": {
+        "hit": false,
+        "withText": false,
+        "firstRank": null,
+        "resultCount": 0
+      },
+      "recordHash": "e4f2c7adfba41ac87bd53d919b7aa5e9c455dc2bf9c2275903bcbe59bb598e9f"
+    },
+    {
+      "id": "synthetic-feed/7",
+      "providerId": "fixture",
+      "status": "scored",
+      "score": 100,
+      "reason": "hit",
+      "ageMinutes": 10,
+      "points": 15,
+      "earnedPoints": 15,
+      "details": {
+        "hit": true,
+        "withText": true,
+        "firstRank": 1,
+        "resultCount": 1
+      },
+      "recordHash": "81f796966438cba0150c9aeac0ced55d9288e28267d92b450fdcc4bf93446435"
+    },
+    {
+      "id": "synthetic-feed/8",
+      "providerId": "fixture",
+      "status": "scored",
+      "score": 0,
+      "reason": "miss",
+      "ageMinutes": 10,
+      "points": 15,
+      "earnedPoints": 0,
+      "details": {
+        "hit": false,
+        "withText": false,
+        "firstRank": null,
+        "resultCount": 0
+      },
+      "recordHash": "42d98d2f20f4a8c97a5457f0cdb4b8cd9943ac9cd4a548ef4093dc16eecd2c7e"
+    },
+    {
+      "id": "synthetic-feed/9",
+      "providerId": "fixture",
+      "status": "scored",
+      "score": 100,
+      "reason": "hit",
+      "ageMinutes": 10,
+      "points": 15,
+      "earnedPoints": 15,
+      "details": {
+        "hit": true,
+        "withText": true,
+        "firstRank": 1,
+        "resultCount": 1
+      },
+      "recordHash": "3ccfc82d2f0a2abc52e3b74318f731f20591c7e918c819b5297a174758847667"
+    },
+    {
+      "id": "synthetic-feed/10",
+      "providerId": "fixture",
+      "status": "provider-error",
+      "score": null,
+      "reason": "synthetic-provider-failure"
+    },
+    {
+      "id": "held-feed",
+      "providerId": "fixture",
+      "status": "held",
+      "score": null,
+      "reason": "synthetic-source-access-hold"
+    }
+  ],
+  "source": {
+    "outputSha256": "fba6fbc18c13e32e63245f07b958943e2e463ee37c5ecdcc19b7e7f0a810c570"
+  }
+}

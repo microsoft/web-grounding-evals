@@ -1,0 +1,19 @@
+{
+  "version": "freshsearch-rt-tasks-v1",
+  "tasks": [
+    {
+      "contractVersion": "fresh-search-task-v1",
+      "queryId": "exploratory-windhoek-temperature",
+      "releaseId": "standalone-exploratory-not-official",
+      "panel": "freshness",
+      "category": "weather",
+      "tier": "head",
+      "timestampType": "observation",
+      "queryText": "What is the current reported temperature in Windhoek?",
+      "canonicalEntity": { "id": "city-na-windhoek", "name": "Windhoek, Namibia" },
+      "informationType": "current_temperature",
+      "timezone": "Africa/Windhoek",
+      "geographicRelevanceRule": "The observation must be for Windhoek."
+    }
+  ]
+}

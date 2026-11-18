@@ -1,0 +1,174 @@
+{
+  "version": "freshsearch-portable-report-v1",
+  "panel": "ef",
+  "kind": "synthetic-fixture",
+  "policy": {
+    "policyId": "fresh-search-pilot",
+    "policyVersion": "2.2.0",
+    "retrievalBudget": 10,
+    "newsEvidenceCount": 1,
+    "selectionMode": "freshest_supported",
+    "profiles": {
+      "weather": {
+        "fullCreditMinutes": 30,
+        "halfLifeMinutes": 60
+      },
+      "finance": {
+        "fullCreditMinutes": 5,
+        "halfLifeMinutes": 15
+      },
+      "news": {
+        "fullCreditMinutes": 180,
+        "halfLifeMinutes": 2880
+      }
+    },
+    "panelWeights": {
+      "freshness": 0.5,
+      "correctness": 0.5
+    },
+    "correctnessWeights": {
+      "singleHop": 0.8,
+      "twoHop": 0.2
+    },
+    "expectedCounts": {
+      "freshnessPerCell": 20,
+      "correctnessSingleHop": 400,
+      "correctnessTwoHop": 100
+    }
+  },
+  "summary": [
+    {
+      "providerId": "fixture",
+      "assignedRows": 5,
+      "scoredRows": 4,
+      "heldRows": 1,
+      "unknownRows": 0,
+      "zeroScoreRows": 1,
+      "coverage": 0.8,
+      "score": 62.5
+    }
+  ],
+  "cases": [
+    {
+      "id": "weather-full",
+      "providerId": "fixture",
+      "category": "weather",
+      "status": "scored",
+      "score": 100,
+      "reason": "scored",
+      "details": {
+        "queryId": "weather-full",
+        "runId": "fixture-weather-full",
+        "category": "weather",
+        "tier": "head",
+        "score": 100,
+        "evidenceScores": [
+          {
+            "evidenceId": "weather-full-G1",
+            "rank": 1,
+            "ageMinutes": 30,
+            "score": 100,
+            "reason": "scored"
+          }
+        ]
+      },
+      "recordHash": "396dc036b55c2c43941cb3a8c27082a98fd92ec068a7bf0f2c55d014a6ea0f9c"
+    },
+    {
+      "id": "finance-half",
+      "providerId": "fixture",
+      "category": "finance",
+      "status": "scored",
+      "score": 50,
+      "reason": "scored",
+      "details": {
+        "queryId": "finance-half",
+        "runId": "fixture-finance-half",
+        "category": "finance",
+        "tier": "head",
+        "score": 50,
+        "evidenceScores": [
+          {
+            "evidenceId": "finance-half-G1",
+            "rank": 1,
+            "ageMinutes": 20,
+            "score": 50,
+            "reason": "scored"
+          }
+        ]
+      },
+      "recordHash": "2e7c8995de3a36f7e490c66389e96e0406fa23940f6e3ed1ba589d7fc8037b6d"
+    },
+    {
+      "id": "news-full",
+      "providerId": "fixture",
+      "category": "news",
+      "status": "scored",
+      "score": 100,
+      "reason": "scored",
+      "details": {
+        "queryId": "news-full",
+        "runId": "fixture-news-full",
+        "category": "news",
+        "tier": "head",
+        "score": 100,
+        "evidenceScores": [
+          {
+            "evidenceId": "news-full-G1",
+            "rank": 1,
+            "ageMinutes": 180,
+            "score": 100,
+            "reason": "scored"
+          }
+        ]
+      },
+      "recordHash": "2fb37b8cc985044339e47fd805227f3b800435aed0c01352b75377efb1372c8c"
+    },
+    {
+      "id": "timestamp-missing",
+      "providerId": "fixture",
+      "category": "weather",
+      "status": "scored",
+      "score": 0,
+      "reason": "missing_timestamp",
+      "details": {
+        "queryId": "timestamp-missing",
+        "runId": "fixture-timestamp-missing",
+        "category": "weather",
+        "tier": "head",
+        "score": 0,
+        "evidenceScores": [
+          {
+            "evidenceId": "missing-G1",
+            "rank": 1,
+            "ageMinutes": null,
+            "score": 0,
+            "reason": "missing_timestamp",
+            "failureCategory": "missing_timestamp"
+          }
+        ]
+      },
+      "recordHash": "d6cb4aec95cd47c159548a8e575789c2274f49f21e7626d59fc7c9dd79c83af8"
+    },
+    {
+      "id": "reference-held",
+      "providerId": "fixture",
+      "category": "weather",
+      "status": "held",
+      "score": null,
+      "reason": "reference_unavailable",
+      "details": {
+        "queryId": "reference-held",
+        "runId": "fixture-reference-held",
+        "category": "weather",
+        "tier": "head",
+        "score": null,
+        "evidenceScores": []
+      },
+      "recordHash": "160cd5dfad1ae34a9caf75671a0236c8f713ce317cb2164a262a9c3351e2967d"
+    }
+  ],
+  "source": {
+    "outputSha256": "fba6fbc18c13e32e63245f07b958943e2e463ee37c5ecdcc19b7e7f0a810c570"
+  }
+}

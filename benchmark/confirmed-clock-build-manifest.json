@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "builderVersion": "freshsearch-portable-clock-builder-v1",
+  "compiler": "esbuild-0.28.2",
+  "scoringProfile": "freshsearch-ef-full-response-v1",
+  "weatherPrompt": "freshsearch-weather-clock-prompt-v1",
+  "financePrompt": "freshsearch-finance-clock-prompt-v1",
+  "runtimePolicy": "record-and-bind-runtime-v1",
+  "supportedNodeRange": "^22.0.0 || ^24.0.0 || ^26.0.0",
+  "inputSha256": "8610b0ffdfce4a300051984fbd32ee5407d1410e75562ee4653f89b31d828438",
+  "outputSha256": "a0f7359b2d55d2367ced4f57f861f6a3f782906d248e67a775e702fb8373f169",
+  "providerOutputSha256": "04d7aa44a2740af644c4c0cfe7ad5c939f04883da3fcca5badbc8d9a111fdff5",
+  "bundledPackages": [
+    {
+      "name": "dom-serializer",
+      "version": "2.0.0",
+      "license": "MIT"
+    },
+    {
+      "name": "domelementtype",
+      "version": "2.3.0",
+      "license": "BSD-2-Clause"
+    },
+    {
+      "name": "domhandler",
+      "version": "5.0.3",
+      "license": "BSD-2-Clause"
+    },
+    {
+      "name": "domutils",
+      "version": "3.2.2",
+      "license": "BSD-2-Clause"
+    },
+    {
+      "name": "entities",
+      "version": "4.5.0",
+      "license": "BSD-2-Clause"
+    },
+    {
+      "name": "entities",
+      "version": "7.0.1",
+      "license": "BSD-2-Clause"
+    },
+    {
+      "name": "htmlparser2",
+      "version": "10.1.0",
+      "license": "MIT"
+    },
+    {
+      "name": "zod",
+      "version": "3.25.76",
+      "license": "MIT"
+    }
+  ]
+}

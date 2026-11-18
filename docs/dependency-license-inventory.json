@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 2,
+  "bundles": [
+    {
+      "file": "benchmark/freshsearch.cjs",
+      "outputSha256": "fba6fbc18c13e32e63245f07b958943e2e463ee37c5ecdcc19b7e7f0a810c570"
+    },
+    {
+      "file": "benchmark/freshsearch-confirmed-clock.cjs",
+      "outputSha256": "a0f7359b2d55d2367ced4f57f861f6a3f782906d248e67a775e702fb8373f169"
+    },
+    {
+      "file": "benchmark/providers/normalization.cjs",
+      "outputSha256": "04d7aa44a2740af644c4c0cfe7ad5c939f04883da3fcca5badbc8d9a111fdff5"
+    }
+  ],
+  "packages": [
+    {
+      "name": "dom-serializer",
+      "version": "2.0.0",
+      "license": "MIT",
+      "licenseSourceBlob": "3d241a8d091f77c40b752cbdd40290084d6107af",
+      "detectedLicense": "NOASSERTION"
+    },
+    {
+      "name": "domelementtype",
+      "version": "2.3.0",
+      "license": "BSD-2-Clause",
+      "licenseSourceBlob": "c464f863ea2b18a15ca3883bc5d98065ed5d039a",
+      "detectedLicense": "BSD-2-Clause"
+    },
+    {
+      "name": "domhandler",
+      "version": "5.0.3",
+      "license": "BSD-2-Clause",
+      "licenseSourceBlob": "c464f863ea2b18a15ca3883bc5d98065ed5d039a",
+      "detectedLicense": "BSD-2-Clause"
+    },
+    {
+      "name": "domutils",
+      "version": "3.2.2",
+      "license": "BSD-2-Clause",
+      "licenseSourceBlob": "c464f863ea2b18a15ca3883bc5d98065ed5d039a",
+      "detectedLicense": "BSD-2-Clause"
+    },
+    {
+      "name": "entities",
+      "version": "4.5.0",
+      "license": "BSD-2-Clause",
+      "licenseSourceBlob": "c464f863ea2b18a15ca3883bc5d98065ed5d039a",
+      "detectedLicense": "BSD-2-Clause"
+    },
+    {
+      "name": "htmlparser2",
+      "version": "10.1.0",
+      "license": "MIT",
+      "licenseSourceBlob": "0a35e029afdc4b3a7f3141143399525f70ce499d",
+      "detectedLicense": "MIT"
+    },
+    {
+      "name": "entities",
+      "version": "7.0.1",
+      "license": "BSD-2-Clause",
+      "licenseSourceBlob": "c464f863ea2b18a15ca3883bc5d98065ed5d039a",
+      "detectedLicense": "BSD-2-Clause"
+    },
+    {
+      "name": "parse5",
+      "version": "7.3.0",
+      "license": "MIT",
+      "licenseSourceBlob": "f3265d4b88f7aac271ec21679195adff8446855e",
+      "detectedLicense": "MIT"
+    },
+    {
+      "name": "entities",
+      "version": "6.0.1",
+      "license": "BSD-2-Clause",
+      "licenseSourceBlob": "c464f863ea2b18a15ca3883bc5d98065ed5d039a",
+      "detectedLicense": "BSD-2-Clause"
+    },
+    {
+      "name": "robots-parser",
+      "version": "3.0.1",
+      "license": "MIT",
+      "licenseSourceBlob": "19b216d64754be1b64f777df94f2af62ca1cd6b0",
+      "detectedLicense": "MIT"
+    },
+    {
+      "name": "zod",
+      "version": "3.25.76",
+      "license": "MIT",
+      "licenseSourceBlob": "c06579627b432d09779094cd0166b7f37fe51db8",
+      "detectedLicense": "MIT"
+    }
+  ]
+}

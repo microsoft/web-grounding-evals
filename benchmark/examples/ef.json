@@ -1,0 +1,116 @@
+{
+  "version": "freshsearch-portable-input-v1",
+  "panel": "ef",
+  "kind": "synthetic-fixture",
+  "records": [
+    {
+      "recordVersion": "fresh-search-run-v1",
+      "panel": "freshness",
+      "queryId": "weather-full",
+      "releaseId": "synthetic-smoke-v1",
+      "providerId": "fixture",
+      "runId": "fixture-weather-full",
+      "requestTime": "2026-11-05T18:00:00.000Z",
+      "eligibilityStatus": "eligible",
+      "category": "weather",
+      "tier": "head",
+      "evidence": [
+        {
+          "evidenceId": "weather-full-G1",
+          "rank": 1,
+          "relevant": true,
+          "provenanceStatus": "supported",
+          "timestamp": {
+            "earliestUtc": "2026-11-05T17:30:00.000Z",
+            "timezoneKnown": true,
+            "type": "observation"
+          }
+        }
+      ]
+    },
+    {
+      "recordVersion": "fresh-search-run-v1",
+      "panel": "freshness",
+      "queryId": "finance-half",
+      "releaseId": "synthetic-smoke-v1",
+      "providerId": "fixture",
+      "runId": "fixture-finance-half",
+      "requestTime": "2026-11-05T18:00:00.000Z",
+      "eligibilityStatus": "eligible",
+      "category": "finance",
+      "tier": "head",
+      "evidence": [
+        {
+          "evidenceId": "finance-half-G1",
+          "rank": 1,
+          "relevant": true,
+          "provenanceStatus": "supported",
+          "timestamp": {
+            "earliestUtc": "2026-11-05T17:40:00.000Z",
+            "timezoneKnown": true,
+            "type": "specified_quote"
+          }
+        }
+      ]
+    },
+    {
+      "recordVersion": "fresh-search-run-v1",
+      "panel": "freshness",
+      "queryId": "news-full",
+      "releaseId": "synthetic-smoke-v1",
+      "providerId": "fixture",
+      "runId": "fixture-news-full",
+      "requestTime": "2026-11-05T18:00:00.000Z",
+      "eligibilityStatus": "eligible",
+      "category": "news",
+      "tier": "head",
+      "evidence": [
+        {
+          "evidenceId": "news-full-G1",
+          "rank": 1,
+          "relevant": true,
+          "provenanceStatus": "supported",
+          "timestamp": {
+            "earliestUtc": "2026-11-05T15:00:00.000Z",
+            "timezoneKnown": true,
+            "type": "publication"
+          }
+        }
+      ]
+    },
+    {
+      "recordVersion": "fresh-search-run-v1",
+      "panel": "freshness",
+      "queryId": "timestamp-missing",
+      "releaseId": "synthetic-smoke-v1",
+      "providerId": "fixture",
+      "runId": "fixture-timestamp-missing",
+      "requestTime": "2026-11-05T18:00:00.000Z",
+      "eligibilityStatus": "eligible",
+      "category": "weather",
+      "tier": "head",
+      "evidence": [
+        {
+          "evidenceId": "missing-G1",
+          "rank": 1,
+          "relevant": true,
+          "provenanceStatus": "missing"
+        }
+      ]
+    },
+    {
+      "recordVersion": "fresh-search-run-v1",
+      "panel": "freshness",
+      "queryId": "reference-held",
+      "releaseId": "synthetic-smoke-v1",
+      "providerId": "fixture",
+      "runId": "fixture-reference-held",
+      "requestTime": "2026-11-05T18:00:00.000Z",
+      "eligibilityStatus": "not_scored",
+      "exclusionReason": "reference_unavailable",
+      "category": "weather",
+      "tier": "head",
+      "evidence": []
+    }
+  ]
+}

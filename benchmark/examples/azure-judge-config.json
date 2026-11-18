@@ -1,0 +1,8 @@
+{
+  "version": "freshsearch-judge-config-v1",
+  "transport": "azure-openai",
+  "model": "REPLACE_WITH_EXPLICIT_DEPLOYMENT_NAME",
+  "apiKeyEnv": "AZURE_OPENAI_KEY",
+  "apiVersion": "2024-12-01-preview",
+  "timeoutMs": 60000
+}
